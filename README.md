@@ -16,6 +16,9 @@ Here are some ideas to get you started:-->
 
 ![Nandha951's github stats](https://github-readme-stats.vercel.app/api?username=Nandha951&count_private=true&show_icons=true&theme=radical)
 ![Nandha951's github stats](https://github-readme-stats.vercel.app/api?username=Nandha951&count_private=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nandha951&layout=compact)](https://github.com/Nandha951/github-readme-stats)
+[![Nandha951's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Nandha951)](https://github.com/Nandha951/github-readme-stats)
+
 
 
 
