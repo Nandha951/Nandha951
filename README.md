@@ -13,6 +13,10 @@ Here are some ideas to get you started:-->
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nandhakumar-apparsamy/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: 
+
+![Nandha951's github stats](https://github-readme-stats.vercel.app/api?username=Nandha951&show_icons=true&theme=radical)
+
+
 <details>
 <summary>
   <b>More stuff about me</b>
