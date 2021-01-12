@@ -13,6 +13,24 @@ Here are some ideas to get you started:-->
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nandhakumar-apparsamy/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: 
+<details>
+<summary>
+  <b>More stuff about me</b>
+</summary>
+
+## Languages, Tools and Framework Known 📜
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/python.svg" />&nbsp; 
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/cplusplus.svg" />&nbsp; 
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/javascript.svg" />&nbsp; 
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/html5.svg" />&nbsp; 
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/css3.svg" />&nbsp; 
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/mysql.svg" />&nbsp; 
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/mongodb.svg" />&nbsp; 
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/git.svg" />&nbsp; 
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/flask.svg" />&nbsp;
+<img height="32" width="32" src="https://cdn.thekrishna.in/img/icon/bootstrap.svg" />&nbsp; 
+
+</details>
 
 <p align="center">
 <a id="GitHub" href="https://github.com/Nandha951/"><img height="20px" src="https://img.shields.io/badge/-GitHub-black?style=flat-square&logo=Github&logoColor=white" alt="GitHub" /></a>&nbsp;&nbsp;     
