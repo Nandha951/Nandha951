@@ -12,7 +12,7 @@ Here are some ideas to get you started:-->
 - 💬 Ask me about ML, Web Dev
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/nandhakumar-apparsamy/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: 
+- ⚡ Fun fact: I speak Python xD
 
 ![Nandha951's github stats](https://github-readme-stats.vercel.app/api?username=Nandha951&count_private=true)<br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Nandha951&layout=compact)](https://github.com/Nandha951/github-readme-stats)
